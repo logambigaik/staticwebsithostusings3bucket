@@ -1,4 +1,4 @@
-# staticwebsithostusings3bucket 
+# static- website host using s3bucket 
 
 # Create new S3 bucket (name should be in url format or else will face issue while creating hosted zone ,cant select the s3bucket. both are in sync) 
 Bucketname: staticwebsitehosting.tk 
