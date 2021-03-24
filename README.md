@@ -1,6 +1,6 @@
 # static- website host using s3bucket 
 
-# Create new S3 bucket (name should be in url format or else will face issue while creating hosted zone ,cant select the s3bucket. both are in sync) 
+# Create new S3 bucket (name should be in url format or else will face issue while creating hosted zone. You cant select the s3bucket if both are in sync) 
 Bucketname: staticwebsitehosting.tk 
 ![image](https://user-images.githubusercontent.com/54719289/112372483-c40d5f00-8cd7-11eb-99bf-3f36218fc9f6.png)
 ![image](https://user-images.githubusercontent.com/54719289/112372242-70027a80-8cd7-11eb-9352-344ee9f117fd.png)
