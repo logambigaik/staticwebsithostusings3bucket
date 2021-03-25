@@ -2,7 +2,7 @@
 
 # Create new S3 bucket:
 
-  Note: name should be in url format or else will face issue while creating hosted zone. You cant select the s3bucket if both are in sync
+  Note: name should be in url format or else will face issue while creating hosted zone. You cant select the s3bucket if both are not in sync
   Bucketname: staticwebsitehosting.tk 
  
 ![image](https://user-images.githubusercontent.com/54719289/112372483-c40d5f00-8cd7-11eb-99bf-3f36218fc9f6.png)
