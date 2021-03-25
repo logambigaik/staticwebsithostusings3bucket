@@ -44,6 +44,9 @@ happydys2007.tk:
 
 ![image](https://user-images.githubusercontent.com/54719289/112379089-a17f4400-8cdf-11eb-95d8-9f4187aaf1ef.png)
 
+# Create Record:
+  Select record type A and under Alias select Alias to S3 endpoint->select your region -> select or bucket) 
+
 ![image](https://user-images.githubusercontent.com/54719289/112379151-b3f97d80-8cdf-11eb-837f-fa5c22fc5277.png)
 
 happydays2007.tk:
